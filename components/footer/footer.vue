@@ -3,5 +3,7 @@
 </style>
 
 <template>
-
+    <footer>
+        <p>© International OfficeUniversitas Hasanuddin</p>
+    </footer>
 </template>
