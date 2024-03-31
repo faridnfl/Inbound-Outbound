@@ -4,6 +4,6 @@
 
 <template>
     <footer>
-        <p>© International OfficeUniversitas Hasanuddin</p>
+        <p>© International Office Universitas Hasanuddin</p>
     </footer>
 </template>
